@@ -1,4 +1,4 @@
-package selenium_wk2;
+package selenium_proj2;
 
 import org.junit.Test;
 import org.openqa.selenium.By;

@@ -1,4 +1,4 @@
-package selenium_wk1;
+package selenium_proj1;
 
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class HW1 {
+public class demosite {
 
 	
 	@Test

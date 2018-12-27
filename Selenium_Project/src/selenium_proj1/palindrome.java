@@ -1,4 +1,4 @@
-package misc;
+package selenium_proj1;
 
 public class palindrome {
 
